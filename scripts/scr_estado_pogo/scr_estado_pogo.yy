@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_estado_pogo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_estado_pogo",
+  "parent":{
+    "name":"Estados",
+    "path":"folders/Scripts/Estados.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
