@@ -12,8 +12,8 @@
     "path":"folders/Objetos/Inimigos.yy",
   },
   "parentObjectId":{
-    "name":"oPogaveis",
-    "path":"objects/oPogaveis/oPogaveis.yy",
+    "name":"oColisaoInimigos",
+    "path":"objects/oColisaoInimigos/oColisaoInimigos.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,12 +33,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sChao",
-    "path":"sprites/sChao/sChao.yy",
+    "name":"verde",
+    "path":"sprites/verde/verde.yy",
   },
   "spriteMaskId":{
-    "name":"sChao",
-    "path":"sprites/sChao/sChao.yy",
+    "name":"verde",
+    "path":"sprites/verde/verde.yy",
   },
   "visible":true,
 }

@@ -34,5 +34,5 @@
     "path":"sprites/HItBoxMorte/HItBoxMorte.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

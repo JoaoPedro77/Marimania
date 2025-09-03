@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite119",
-    "path":"sprites/Sprite119/Sprite119.yy",
+    "name":"sChao",
+    "path":"sprites/sChao/sChao.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

@@ -1,21 +1,3 @@
-/// @function mover_y(alvo, vel)
-/// @param alvo Objeto ou instância que vai se mover
-/// @param vel  Velocidade no eixo Y (pode ser positiva ou negativa)
-
-/// @function tomar_dano(alvo, dano)
-/// @param alvo   Objeto ou instância
-/// @param dano   Quanto de dano aplicar
-
-function tomar_dano(alvo, dano) {
-    if (instance_exists(alvo)) {
-        with (alvo) {
-            if (variable_instance_exists(id, "vida")) {
-                vida -= dano;
-            }
-        }
-    }
-}
-
 /// @function rodar(alvo, rodar)
 /// @param alvo   Objeto ou instância
 /// @param rodar  Intensidade da oscilação em graus

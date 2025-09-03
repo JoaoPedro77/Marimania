@@ -25,8 +25,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite122",
-    "path":"sprites/Sprite122/Sprite122.yy",
+    "name":"sArvores",
+    "path":"sprites/sArvores/sArvores.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
