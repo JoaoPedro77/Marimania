@@ -9,7 +9,10 @@
     "name":"Inimigos",
     "path":"folders/Objetos/Inimigos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oColisaoInimigos",
+    "path":"objects/oColisaoInimigos/oColisaoInimigos.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

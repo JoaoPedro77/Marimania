@@ -9,10 +9,7 @@
     "name":"Inimigos",
     "path":"folders/Objetos/Inimigos.yy",
   },
-  "parentObjectId":{
-    "name":"oSolido",
-    "path":"objects/oSolido/oSolido.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -4,7 +4,7 @@ function scr_estado_atacando(){
 
 	if (ataque_timer == 10) {
 	    ataque_ativo = true;
-	    with(oPointArma) visible = true;
+	    //with(oPointArma) visible = true;
 	}
 
 	if (ataque_timer <= 0) {

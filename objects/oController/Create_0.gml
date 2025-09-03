@@ -3,7 +3,7 @@ cameraInit()
 // Configurações globais do Player
 global.PlayerStats = {
 	// Vida
-	vida: 6,
+	vida: 3,
 	
     // Física
     grav: 0.5,

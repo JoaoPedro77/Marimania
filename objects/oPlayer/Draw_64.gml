@@ -1,1 +1,1 @@
-//scr_player_debug();
+scr_player_debug();

@@ -16,6 +16,7 @@ ataque_cooldown = 0;
 tiro_timer = 0;
 tiro_cooldown = 0;
 rebote_timer = 0;
+tomou_dano = 0;
 
 // Flags
 no_chao = false;
@@ -40,4 +41,3 @@ COL_OBJ = oSolido;
 
 x = 90;
 y = 400;
-	
