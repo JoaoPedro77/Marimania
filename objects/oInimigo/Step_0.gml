@@ -1,9 +1,7 @@
-// Se morrer, destrói
 if (global.Mari_MalStats.vida <= 0) {
     instance_destroy(self);
 }
 
-// --- Gravidade / chão ---
 no_chao = place_meeting(x, y, COL_OBJ) || place_meeting(x, y, COL_PLAT);
 
 if (!no_chao) {
@@ -13,7 +11,6 @@ if (!no_chao) {
     vs = 0;
 }
 
-// --- Movimento / perseguição ---
 if (distance_to_object(oPlayer) <= 400 && oCheck.chao == true) {
     var movimento = "perseguir";
 
@@ -25,7 +22,7 @@ if (distance_to_object(oPlayer) <= 400 && oCheck.chao == true) {
 }
 
 if (oPlayer.x > x) {
-            image_xscale = 0.15;   // olhando para a direita
+            image_xscale = 0.15;
         } else {
-            image_xscale = -0.15;  // olhando para a esquerda
+            image_xscale = -0.15;
         }
