@@ -93,6 +93,7 @@
     {"id":{"name":"oPointArma","path":"objects/oPointArma/oPointArma.yy",},},
     {"id":{"name":"oPointPogo","path":"objects/oPointPogo/oPointPogo.yy",},},
     {"id":{"name":"oPointTiro","path":"objects/oPointTiro/oPointTiro.yy",},},
+    {"id":{"name":"oPreso","path":"objects/oPreso/oPreso.yy",},},
     {"id":{"name":"oSolido","path":"objects/oSolido/oSolido.yy",},},
     {"id":{"name":"oWoody","path":"objects/oWoody/oWoody.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

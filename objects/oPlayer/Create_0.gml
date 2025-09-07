@@ -40,5 +40,5 @@ image_yscale  = global.escala_player;
 COL_OBJ = oSolido;
 COL_PLAT = oPlat_colisao
 
-x = 500;
+x = 2300;
 y = 400;

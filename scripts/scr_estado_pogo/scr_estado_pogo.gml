@@ -13,9 +13,11 @@ function scr_estado_pogo(){
 	}
 
 	if (rebateu && !other.rebote_ativo) {
+		oPlayer.tomou_dano = 30
 	    other.vs = -global.PlayerStats.pogo_rebote_vel;
 	    other.rebote_ativo = true;
 	    other.rebote_timer = global.PlayerStats.rebote_duracao;
+		
 	}
 
 	if (no_chao || ataque_timer <= 0) {

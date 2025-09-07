@@ -15,6 +15,7 @@ global.PlayerStats = {
     acel: 2,
     desacel: 2,
     vel_max: 7.0,
+	kb: 150,
 
     // Timers
     coyote_max: 0.15 * room_speed,
@@ -26,7 +27,7 @@ global.PlayerStats = {
     ataque_cooldown_padrao: 18,
 
     // Pogo
-    rebote_duracao: 5,
+    rebote_duracao: 15,
     pogo_rebote_vel: 18,
 
     // Tiro
