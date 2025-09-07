@@ -76,6 +76,7 @@
     {"id":{"name":"oAranha","path":"objects/oAranha/oAranha.yy",},},
     {"id":{"name":"oBotoa","path":"objects/oBotoa/oBotoa.yy",},},
     {"id":{"name":"oChao","path":"objects/oChao/oChao.yy",},},
+    {"id":{"name":"oCheck","path":"objects/oCheck/oCheck.yy",},},
     {"id":{"name":"oColisaoInimigos","path":"objects/oColisaoInimigos/oColisaoInimigos.yy",},},
     {"id":{"name":"oController","path":"objects/oController/oController.yy",},},
     {"id":{"name":"oHud","path":"objects/oHud/oHud.yy",},},
