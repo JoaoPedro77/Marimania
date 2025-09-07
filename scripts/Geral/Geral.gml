@@ -19,3 +19,32 @@ function rodar(alvo, rodar) {
         }
     }
 }
+
+function plataforma_move(obj, velocidade, mover_x, mover_y, alvo_X, alvo_Y) {
+    if (instance_exists(obj)) {
+        with (obj) {
+            if (!variable_instance_exists(id, "inicialX")) inicialX = x;
+            if (!variable_instance_exists(id, "inicialY")) inicialY = y;
+
+            if (mover_x) {
+                if (!variable_instance_exists(id, "dirX")) dirX = 1;
+				
+                x += velocidade * dirX;
+				
+                if (x >= alvo_X) { x = alvo_X; dirX = -1; }
+				
+                if (x <= inicialX) { x = inicialX; dirX = 1; }
+            }
+
+            if (mover_y) {
+                if (!variable_instance_exists(id, "dirY")) dirY = 1;
+				
+                y += velocidade * dirY;
+				
+                if (y >= alvo_Y) { y = alvo_Y; dirY = -1; }
+				
+                if (y <= inicialY) { y = inicialY; dirY = 1; }
+            }
+        }
+    }
+}

@@ -32,12 +32,13 @@ sShot   = sPlayerAtirando;
 sPogo   = sPlayerPogo;
 
 // Escala inicial
-escala_player = 0.15;
-image_xscale  = escala_player;
-image_yscale  = escala_player;
+global.escala_player = 0.15;
+image_xscale  = global.escala_player;
+image_yscale  = global.escala_player;
 
 // Colisão
 COL_OBJ = oSolido;
+COL_PLAT = oPlat_colisao
 
-x = 90;
+x = 500;
 y = 400;

@@ -14,5 +14,5 @@ function scr_player_animacao(){
 	}
 
 	// Vira sprite
-	if (hs != 0) image_xscale = escala_player * sign(hs);
+	if (hs != 0) image_xscale = global.escala_player * sign(hs);
 }

@@ -37,8 +37,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Inimigo",
-    "path":"folders/Sprites/Inimigo.yy",
+    "name":"aranha",
+    "path":"folders/Sprites/Inimigo/aranha.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

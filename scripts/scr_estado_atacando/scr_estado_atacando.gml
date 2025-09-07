@@ -4,6 +4,7 @@ function scr_estado_atacando(){
 
 	if (ataque_timer == 10) {
 	    ataque_ativo = true;
+		audio_play_sound(choose(snd_attack1, snd_attack2, snd_attack3, snd_attack4), 1, false)
 	    //with(oPointArma) visible = true;
 	}
 

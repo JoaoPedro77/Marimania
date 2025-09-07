@@ -1,0 +1,1 @@
+plataforma_move(self, 2, true, false, 4700, false)

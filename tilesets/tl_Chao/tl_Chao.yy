@@ -1,0 +1,42 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tl_Chao",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":21,
+    "SerialiseWidth":21,
+    "TileCompressedData":[
+      13,49,50,49,50,49,50,49,50,49,50,49,50,50,-8,0,13,69,70,69,70,69,70,69,70,69,70,69,70,70,-8,0,13,89,
+      90,89,90,89,90,89,90,89,90,89,90,90,-17,0,5,37,35,36,37,38,-14,0,3,53,0,53,-347,0,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"tl_Chao",
+  "out_columns":15,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Conjuntos de tiles",
+    "path":"folders/Conjuntos de tiles.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"sChao",
+    "path":"sprites/sChao/sChao.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":64,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":64,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":220,
+}

@@ -1,9 +1,15 @@
 pogoable = true;
-vida = 100
 
-escala_player = 0.2;
-image_xscale  = escala_player;
-image_yscale  = escala_player;
+vs = 2
+
+// Colisão
+COL_OBJ = oSolido;
+COL_PLAT = oPlat_colisao
+
+image_xscale  = global.escala_player;
+image_yscale  = global.escala_player;
 
 x = 500;
-y = 565;
+y = 300;
+
+no_chao = false

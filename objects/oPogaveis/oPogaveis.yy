@@ -6,8 +6,8 @@
   "name":"oPogaveis",
   "overriddenProperties":[],
   "parent":{
-    "name":"Inimigos",
-    "path":"folders/Objetos/Inimigos.yy",
+    "name":"Pogaveis",
+    "path":"folders/Objetos/Inimigos/Pogaveis.yy",
   },
   "parentObjectId":{
     "name":"oColisaoInimigos",

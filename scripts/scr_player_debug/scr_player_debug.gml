@@ -9,6 +9,8 @@ function scr_player_debug(){
 	    "Cooldown Atk: " + string(ataque_cooldown) + "\n" +
 	    "Cooldown Tiro: " + string(tiro_cooldown) + "\n" +
 		"Tomar Dano: " + string(tomou_dano) + "\n" +
-		"Vida Player: " + string(global.PlayerStats.vida)
+		"Vida Player: " + string(global.PlayerStats.vida) + "\n" +
+		"Pogo: " + string(rebote_ativo)
+		
 	);
 }
