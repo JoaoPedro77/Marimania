@@ -1,4 +1,3 @@
-// Se morrer, destrói
 if (global.Mari_MalStats.vida <= 0) {
     instance_destroy(self);
 }
